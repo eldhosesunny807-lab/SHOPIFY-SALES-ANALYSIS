@@ -7,7 +7,8 @@ An interactive Power BI analytics suite analyzing 50,000 customers and 5 million
 ## 📊 Dashboard Overview
 
 ### Page 1: Customer Segmentation & Value Insights
-"C:\Users\eldho\OneDrive\Pictures\Screenshots\Shopify sales.png"
+<img width="1083" height="638" alt="Shopify sales" src="https://github.com/user-attachments/assets/3ae8d17b-e309-4bd2-aa8a-8202cfc0311b" />
+
 
 * *Total Customers:* 50K
 * *Total Revenue:* $2.51 Billion
